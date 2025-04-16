@@ -49,7 +49,7 @@ def pokaz_wykres():
         plt.savefig(filename)
     plt.show()
         
-pokaz_wykres()
+#pokaz_wykres() Tymczasowo wyłączone, aby nie tworzyć niepotrzebnych plików png z wykresami
 
 
 #Przykładowy raport danych z data_large.csv odpowiadający na pytania: Chcę wiedzieć, który dział płaci najlepiej, czy wiek wpływa na pensję i ilu mamy pracowników z Polski.
