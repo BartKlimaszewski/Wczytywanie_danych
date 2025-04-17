@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #Wczytywanie pliku csv
-df = pd.read_csv('test_data.csv')
+df = pd.read_csv('data_large.csv')
 
 #Odczytuje ilości wierszy i kolumn
 print(f"Wiersze i kolumny: {df.shape}")
